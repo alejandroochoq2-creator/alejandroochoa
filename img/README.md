@@ -1,7 +1,7 @@
 # alejandroochoa
 estudiante de bachiller
 #¿Quién soy?
-<img src="unnamed.gif" alt="">
+
 
 Soy estudiante de secundaria y estoy cursando un técnico en programación. Me gusta aprender sobre tecnología y desarrollar programas que puedan ayudar a las personas.
 
