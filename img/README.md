@@ -11,6 +11,7 @@ Soy estudiante de secundaria y estoy cursando un técnico en programación. Me g
     Formación Complementaria:
 
 #Proyectos Destacados
+<img src="unnamed.gif" alt="">
 
     TecSalud: Sitio web desarrollado como trabajo de SENA con el objetivo de dar informacion y concientizar acerca del VIH. (Tecnologías: Html, Css, JavaScript)
 
